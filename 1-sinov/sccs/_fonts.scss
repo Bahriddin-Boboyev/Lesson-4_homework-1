@@ -1,0 +1,10 @@
+/* fraunces-900 - latin */
+@font-face {
+  font-family: 'Fraunces 9pt';
+  font-style: normal;
+  font-weight: 900;
+  src: url('../fonts/fraunces-9pt-black.woff2') format('woff2'),
+    /* Super Modern Browsers */
+    url('../fonts/fraunces-9pt-black.woff') format('woff');
+  /* Modern Browsers */
+}
